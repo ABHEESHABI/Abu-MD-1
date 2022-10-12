@@ -1,8 +1,8 @@
 {
-  "name": "Abu MD",
-  "description": "Abu MD - Simple WhatsApp Multi Device Bot",
+  "name": "ABHI MD",
+  "description": "ABHI MD - Simple WhatsApp Multi Device Bot",
   "keywords": ["whatsapp-bot", "multi-device", "Jsl", "abu-md", "abu"],
-  "repository": "https://github.com/Afx-Abu/Abu-MD",
+  "repository": "https://github.com/ABHEESHABI/Abu-MD-1",
   "stack": "container",
   "env": {
    "SESSION_ID": {
@@ -13,7 +13,7 @@
     "SUDO": {
       "description": "sudo numbers with country code seperate with , for multiple numbers",
       "required": false,
-      "value": "917025994178"
+      "value": "918137093395"
     },
     "ANTI_LINK": {
       "description": "true/false",
